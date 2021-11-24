@@ -24,7 +24,10 @@
 ## Files
 
 **main.ipynb**
-Primary data exploration and modeling notebook. Exploration and modeling may be broken out into separate files later.
+Primary modeling notebook.
+
+**EDA.ipynb**
+Notebook containing data exploration and findings
 
 **data_description.txt**
 (from kaggle) Full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
